@@ -6,8 +6,8 @@ Trabajo Práctico Integrador de puro Frontend hecho con HTML5, CSS3 y Bootstrap.
 ![codoacodo](https://user-images.githubusercontent.com/83146564/137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3.png)
 
 ### En Github Pages
-https://tefsantana.github.io/tp1codoacodo/
-
+#https://tefsantana.github.io/tp1codoacodo/
+https://github.com/jorge23004/jorge_coll
 ### En Netlify
 https://tp1codoacodo.netlify.app/
 
